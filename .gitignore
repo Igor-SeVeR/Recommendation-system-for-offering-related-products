@@ -1,3 +1,8 @@
+# Data
+
+data/
+log.txt
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
@@ -64,6 +69,8 @@ db.sqlite3-journal
 # Flask stuff:
 instance/
 .webassets-cache
+
+.idea
 
 # Scrapy stuff:
 .scrapy
